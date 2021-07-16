@@ -13,8 +13,8 @@
   <body>
     <div id="wrapper">
       <div id="content">
-        <h1>Support Kerala Blasters!</h1>
-        <p>Support Kerala Blasters by changing your profile picture</p>
+        <h1>FB PIcture Framer</h1>
+        <p>Change your profile picture</p>
         <div id="preview">
           <div id="crop-area">
             <img src="http://demos.subinsb.com/isl-profile-pic/image/person.png" id="profile-pic" />
