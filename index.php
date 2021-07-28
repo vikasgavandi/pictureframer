@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
   <head>
-    <title>Support Kerala Blasters</title>
+    <title>Digilabs</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="css/croppie.css" rel="stylesheet" async="async" />
     <link href="css/style.css" rel="stylesheet" async="async" />
@@ -13,8 +13,8 @@
   <body>
     <div id="wrapper">
       <div id="content">
-        <h1>FB PIcture Framer</h1>
-        <p>Change your profile picture</p>
+        <h1>DIGILABs PhotoFramer</h1>
+        <p>Digilabs Profile Picture</p>
         <div id="preview">
           <div id="crop-area">
             <img src="http://demos.subinsb.com/isl-profile-pic/image/person.png" id="profile-pic" />
