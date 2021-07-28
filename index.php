@@ -25,11 +25,11 @@
           <button id="download" disabled>Download Profile Picture</button>
           <button id="fb-set-pic" disabled>Set As <b>Facebook</b> Profile Picture</button>
         </p>
-        <h2>Upload</h2>
+        <!-- <h2>Upload</h2> -->
         <input type="file" name="file" onchange="onFileChange(this)">
-        <h2>OR</h2>
-        <div class="fb-login-button" data-scope="public_profile,publish_actions" onlogin="checkLoginState();" data-max-rows="5" data-size="large" data-show-faces="false" data-auto-logout-link="false"></div>
-        <div id="status"></div>
+        <!-- <h2>OR</h2> -->
+        <!-- <div class="fb-login-button" data-scope="public_profile,publish_actions" onlogin="checkLoginState();" data-max-rows="5" data-size="large" data-show-faces="false" data-auto-logout-link="false"></div> -->
+        <!-- <div id="status"></div> -->
         <h2>Design</h2>
         <div id="designs">
           <img class="design active" src="frames/frame-0.png" data-design="0" />
